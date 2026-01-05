@@ -1,0 +1,69 @@
+FIVE NIGHTS AT FREDDY'S 3
+
+WELCOME, NIGHT GUARD!
+You’ve taken a job at Fazbear’s Fright: the horror attraction based on the old Freddy Fazbear’s Pizza. Your task is to survive the night while monitoring the animatronics and maintaining the building’s systems.
+
+────────────────────────────
+1. GAME OBJECTIVE
+────────────────────────────
+- Survive from 12 AM to 6 AM.
+- Monitor cameras, audio, and ventilation systems.
+- Prevent animatronic attacks while managing limited system resources.
+
+────────────────────────────
+2. OFFICE EQUIPMENT & SYSTEMS
+────────────────────────────
+🎥 Security Cameras:
+- Track Springtrap and phantom animatronics through all rooms.
+- Phantom animatronics cannot physically harm you but will disrupt systems.
+
+📡 Audio Devices:
+- Play audio in specific rooms to lure Springtrap away from the office.
+- Misuse can increase risk; play audio carefully and strategically.
+
+⚡ Ventilation System:
+- Maintain air pressure in the office vents.
+- Phantom animatronics and system failures reduce ventilation efficiency.
+- If ventilation fails, hallucinations increase and can cause game over.
+
+────────────────────────────
+3. ANIMATRONIC GUIDE
+────────────────────────────
+- **Springtrap**: The only real threat. Stalks the building and can reach your office if you fail to manage audio.  
+- **Phantom Animatronics**: Hallucinations of old animatronics. Cannot kill you but disrupt systems.  
+
+💡 Tips:
+- Focus on Springtrap first; phantom distractions can be ignored unless they cause system failures.
+- Play audio in the correct room on time to lure Springtrap back.
+- Avoid looking directly at phantoms for too long.
+
+────────────────────────────
+4. SYSTEM MANAGEMENT
+────────────────────────────
+- **Power** is replaced by **system maintenance**.
+- Systems (camera, audio, ventilation) can fail if overused.
+- Keep a balance: don’t overuse cameras, audio, or vent fixes.
+- Watch the status lights; they indicate which system needs attention.
+
+────────────────────────────
+5. NIGHT-BY-NIGHT ADVICE
+────────────────────────────
+Night 1-2:
+- Learn Springtrap’s patterns. Phantoms begin appearing.
+
+Night 3-4:
+- Phantom animatronics appear more frequently.
+- Audio cues become critical for Springtrap.
+
+Night 5-6 (Extra Night):
+- Maximum difficulty. Multi-tasking is crucial: audio + camera + ventilation.
+- Stay calm; mistakes are fatal.
+
+────────────────────────────
+6. FINAL NOTES
+────────────────────────────
+- Focus on Springtrap; phantoms are distractions.
+- Maintain office systems consistently.
+- Patience, observation, and timing are your keys to survival.
+
+GOOD LUCK, NIGHT GUARD!
