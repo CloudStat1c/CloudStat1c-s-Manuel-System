@@ -1,0 +1,60 @@
+FIVE NIGHTS AT FREDDY'S 4
+
+WELCOME, NIGHT GUARD!
+You are now inside a child’s bedroom haunted by nightmares of Freddy Fazbear and his friends. Survive each night from 12 AM to 6 AM, listening carefully and reacting to the animatronic threats.
+
+────────────────────────────
+1. GAME OBJECTIVE
+────────────────────────────
+- Survive the night in the bedroom.
+- Listen carefully for audio cues to detect animatronic movement.
+- Close doors and check the closet or hallway when necessary.
+
+────────────────────────────
+2. OFFICE EQUIPMENT
+────────────────────────────
+🚪 Bedroom Doors:
+- Close doors when you hear animatronics near the room.
+- Do not keep doors closed unnecessarily — it can exhaust your attention.
+
+🔦 Flashlight:
+- Use to check the hallway and closet.
+- Only flash when you hear audio cues, or animatronics may sneak in.
+
+────────────────────────────
+3. ANIMATRONIC GUIDE
+────────────────────────────
+- **Nightmare Freddy**: Moves along the bed; watch for audio cues.  
+- **Nightmare Bonnie**: Moves through the hallway; flash your light when you hear him.  
+- **Nightmare Chica**: Moves through the right hallway; use flashlight carefully.  
+- **Nightmare Foxy**: Moves fast; listen for his footsteps.  
+- **Nightmare Fredbear**: Appears late in the night; can instantly kill if not monitored.  
+- **Nightmare (Other)**: Shadows and minor animatronics appear occasionally; focus on main threats.
+
+💡 Tips:
+- Close doors only when you hear an animatronic nearby.  
+- Audio cues are everything; do not rely on visuals alone.  
+- Flash the hallway quickly; long flashes will allow animatronics to approach.  
+- Stay calm; panic leads to mistakes.
+
+────────────────────────────
+4. NIGHT-BY-NIGHT ADVICE
+────────────────────────────
+Night 1-2:
+- Get used to sound cues and basic animatronic behavior.
+
+Night 3-4:
+- Animatronics become more aggressive. Start reacting quickly to audio cues.
+
+Night 5-6 (Extra Night):
+- Maximum difficulty. Animatronics move faster and audio cues overlap.
+- Focus on sound and timing for doors and flashlight.
+
+────────────────────────────
+5. FINAL NOTES
+────────────────────────────
+- Listening carefully is your only defense.
+- Avoid overreacting; unnecessary actions can cause failure.
+- Observation, patience, and timing are critical to survive all nights.
+
+GOOD LUCK!
