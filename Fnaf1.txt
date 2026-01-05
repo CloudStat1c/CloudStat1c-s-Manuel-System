@@ -1,47 +1,83 @@
-FIVE NIGHTS AT FREDDY'S
+FIVE NIGHTS AT FREDDY'S - OFFICIAL NIGHT GUARD HANDBOOK
 
-Welcome to Freddy Fazbear's Pizza! Your goal is to survive each night from 12 AM to 6 AM while avoiding the animatronics. Follow this guide to play effectively.
+WELCOME, NIGHT GUARD!
+You’ve taken the night shift at Freddy Fazbear’s Pizza. Your goal is to survive each night from 12 AM to 6 AM while avoiding the animatronics. This handbook will guide you through all tools, animatronic behavior, and survival strategies.
 
+────────────────────────────
 1. GAME OBJECTIVE
-- Survive all five nights as the night security guard.
-- Avoid being caught by Freddy, Bonnie, Chica, or Foxy.
-- Manage your office resources carefully: power is limited.
+────────────────────────────
+- Survive from 12 AM to 6 AM without being caught by animatronics.
+- Monitor security cameras to track movement.
+- Conserve office power: lights and doors drain energy.
+- Observation and patience are key to survival.
 
-2. SECURITY CAMERAS
-- Access cameras by pressing the CAMERA button.
-- Watch the hallways and rooms to track animatronic movements.
-- Focus on key areas:
-  * Left Hall → Bonnie’s route
-  * Right Hall → Chica’s route
-  * Pirate Cove → Foxy hides here
-  * Stage → Freddy stays mostly here
+────────────────────────────
+2. OFFICE EQUIPMENT
+────────────────────────────
+💡 Flashlights / Hall Lights:
+- Used to check hallways and doorways.
+- Conserves power compared to leaving doors closed all night.
 
-3. DOORS AND LIGHTS
-- Each office door and light uses power when activated.
-- Only close doors if an animatronic is at the doorway.
-- Flash your hallway light to check for intruders without wasting too much power.
+🚪 Doors:
+- Close only when an animatronic is at the doorway.
+- Keep doors open otherwise to conserve power.
 
-4. ANIMATRONIC BEHAVIORS
-- Freddy: Moves slowly but can appear suddenly in your office late at night.
-- Bonnie: Approaches from the left; watch the left hall.
-- Chica: Approaches from the right; watch the right hall.
-- Foxy: Stays in Pirate Cove; monitor cameras frequently to prevent a sprint to your office.
+🎥 Security Cameras:
+- Monitor rooms and hallways to track animatronic movement.
+- Do not stay on cameras too long — it may accelerate animatronic activity.
 
-5. POWER MANAGEMENT
-- Power is finite each night.
-- Keep doors open and lights off whenever safe.
-- Use cameras sparingly — overusing them accelerates animatronic activity.
-- Run out of power → doors and lights stop working → animatronics can enter freely.
+────────────────────────────
+3. ANIMATRONIC GUIDE
+────────────────────────────
+- **Freddy Fazbear**: Stays mostly on stage; moves slowly. Approaches your office at night.  
+- **Bonnie the Bunny**: Moves from the left hallway. Flash lights and close the door when necessary.  
+- **Chica the Chicken**: Moves from the right hallway. Watch carefully and close the door if needed.  
+- **Foxy the Pirate Fox**: Hides in Pirate Cove; check cameras frequently to prevent sudden sprints.  
 
-6. TIPS & STRATEGY
-- Check cameras quickly, don’t linger too long.
-- Listen to audio cues: footsteps, laughter, or door knocks.
-- Track Foxy often to prevent sudden attacks.
-- Stay calm; panic leads to mistakes and early game over.
-- Remember: observation + patience = survival.
+💡 Tips:
+- Listen for audio cues: footsteps, laughter, door knocks.  
+- Do not panic; staying calm helps you survive.  
 
-7. WINNING
-- Survive from 12 AM to 6 AM for all five nights.
-- Some nights introduce new animatronic behavior; adapt your strategy.
-- Good luck, night guard!
+────────────────────────────
+4. POWER MANAGEMENT
+────────────────────────────
+- Power is limited each night. Doors and lights drain it.
+- Overusing doors or lights will leave you powerless before 6 AM.
+- If power runs out, animatronics can enter freely — game over.
 
+────────────────────────────
+5. SURVIVAL STRATEGY
+────────────────────────────
+⚡ Tip: Flash hallway lights quickly instead of keeping doors closed constantly.  
+⚡ Tip: Watch cameras sparingly; only track animatronics that are active.  
+⚡ Tip: Conserve power early in the night to ensure it lasts until 6 AM.  
+⚡ Tip: Focus on Foxy — he moves fastest and can end your night abruptly.  
+
+────────────────────────────
+6. NIGHT-BY-NIGHT ADVICE
+────────────────────────────
+Night 1:
+- Learn animatronic patterns. Mostly observation; little risk.
+
+Night 2:
+- Animatronics become more active. Use cameras more and manage doors.
+
+Night 3:
+- Foxy becomes more aggressive. Frequent camera checks are critical.
+
+Night 4:
+- Multi-tasking is key: watch hallways, doors, and cameras carefully.
+
+Night 5:
+- Maximum difficulty. Constant vigilance required.  
+- Observe, react, conserve power, and survive until 6 AM.
+
+────────────────────────────
+7. FINAL NOTES
+────────────────────────────
+- Stay patient and calm; mistakes come from panic.  
+- Learn each animatronic’s behavior over multiple nights.  
+- Conserve power but react quickly when an animatronic approaches.  
+- Survive all five nights to complete your training as a night guard.
+
+GOOD LUCK, NIGHT GUARD!
