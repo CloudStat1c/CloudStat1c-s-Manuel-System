@@ -1,0 +1,76 @@
+ULTIMATE CUSTOM NIGHT - OFFICIAL NIGHT GUARD HANDBOOK
+
+WELCOME, NIGHT GUARD!
+You’ve entered the Ultimate Custom Night challenge, where you can face up to 50 animatronics from the entire FNAF series at customizable difficulty levels. This handbook will guide you through gameplay mechanics, animatronics, and strategies to survive the night.
+
+────────────────────────────
+1. GAME OBJECTIVE
+────────────────────────────
+- Survive from 12 AM to 6 AM in your office.
+- Each animatronic has its own AI and behavior.
+- You can customize difficulty (0–20) for each animatronic.
+- Master observation, multitasking, and timing to survive.
+
+────────────────────────────
+2. OFFICE EQUIPMENT & TOOLS
+────────────────────────────
+🎥 Security Cameras:
+- Monitor multiple rooms to track animatronic movement.
+- Use selectively; some animatronics are camera-resistant.
+
+💡 Flashlight:
+- Flash hallways or animatronics as required.
+- Conserves power compared to other mechanics.
+
+📡 Doors & Vents:
+- Close doors to block animatronics approaching your office.
+- Check vents often; some animatronics use them to enter.
+
+🎵 Audio & Masks:
+- Use audio devices or Freddy mask to fool certain animatronics.
+- Each animatronic reacts differently; check their strategies.
+
+⚠️ Power:
+- Only limited power available; overuse of doors, lights, or cameras drains it quickly.
+- Running out of power allows animatronics to attack freely.
+
+────────────────────────────
+3. ANIMATRONIC GUIDE
+────────────────────────────
+- **Freddy, Bonnie, Chica, Foxy**: Classic animatronics; behavior varies based on difficulty.  
+- **Toy Animatronics**: Fast movers; use mask and flashlight strategically.  
+- **Withered Animatronics**: Aggressive; monitor closely.  
+- **Phantom Animatronics**: Cannot physically kill you but disrupt systems.  
+- **Nightmare Animatronics**: Fast and dangerous; react immediately to audio/visual cues.  
+- **Special Animatronics**: (Golden Freddy, Funtime Freddy, etc.) appear sporadically; learn their patterns.  
+
+💡 Tips:
+- Each animatronic has unique AI; check their behavior in the in-game menu for optimal defense.  
+- Focus on the most aggressive animatronics first.  
+- Audio cues and camera visuals are your primary defense.
+
+────────────────────────────
+4. SURVIVAL STRATEGY
+────────────────────────────
+⚡ Tip: Always multitask — monitor cameras, vents, doors, and audio cues simultaneously.  
+⚡ Tip: Conserve power; don’t leave doors closed unnecessarily.  
+⚡ Tip: Learn each animatronic’s patterns — survival is mostly pattern recognition.  
+⚡ Tip: Use Freddy mask and audio strategically for specific animatronics.  
+⚡ Tip: Phantom animatronics distract you; ignore them unless they disrupt systems.  
+
+────────────────────────────
+5. NIGHT-BY-NIGHT ADVICE
+────────────────────────────
+- Unlike classic FNAF games, UCN allows **custom difficulty**.  
+- Lower difficulty helps learn patterns; higher difficulty requires fast reactions.  
+- Gradually increase animatronic difficulty as you master their behavior.  
+
+────────────────────────────
+6. FINAL NOTES
+────────────────────────────
+- Observation, timing, and quick reflexes are critical.  
+- Power management is the key to survival.  
+- Don’t panic; most deaths are from mistakes rather than RNG.  
+- Survive all 12 “hours” (12 AM–6 AM) to beat the night and unlock all content.
+
+GOOD LUCK, NIGHT GUARD!
