@@ -1,0 +1,47 @@
+FIVE NIGHTS AT FREDDY'S
+
+Welcome to Freddy Fazbear's Pizza! Your goal is to survive each night from 12 AM to 6 AM while avoiding the animatronics. Follow this guide to play effectively.
+
+1. GAME OBJECTIVE
+- Survive all five nights as the night security guard.
+- Avoid being caught by Freddy, Bonnie, Chica, or Foxy.
+- Manage your office resources carefully: power is limited.
+
+2. SECURITY CAMERAS
+- Access cameras by pressing the CAMERA button.
+- Watch the hallways and rooms to track animatronic movements.
+- Focus on key areas:
+  * Left Hall → Bonnie’s route
+  * Right Hall → Chica’s route
+  * Pirate Cove → Foxy hides here
+  * Stage → Freddy stays mostly here
+
+3. DOORS AND LIGHTS
+- Each office door and light uses power when activated.
+- Only close doors if an animatronic is at the doorway.
+- Flash your hallway light to check for intruders without wasting too much power.
+
+4. ANIMATRONIC BEHAVIORS
+- Freddy: Moves slowly but can appear suddenly in your office late at night.
+- Bonnie: Approaches from the left; watch the left hall.
+- Chica: Approaches from the right; watch the right hall.
+- Foxy: Stays in Pirate Cove; monitor cameras frequently to prevent a sprint to your office.
+
+5. POWER MANAGEMENT
+- Power is finite each night.
+- Keep doors open and lights off whenever safe.
+- Use cameras sparingly — overusing them accelerates animatronic activity.
+- Run out of power → doors and lights stop working → animatronics can enter freely.
+
+6. TIPS & STRATEGY
+- Check cameras quickly, don’t linger too long.
+- Listen to audio cues: footsteps, laughter, or door knocks.
+- Track Foxy often to prevent sudden attacks.
+- Stay calm; panic leads to mistakes and early game over.
+- Remember: observation + patience = survival.
+
+7. WINNING
+- Survive from 12 AM to 6 AM for all five nights.
+- Some nights introduce new animatronic behavior; adapt your strategy.
+- Good luck, night guard!
+
